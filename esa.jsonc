@@ -1,0 +1,6 @@
+{
+  // 静态打包产物目录，vite默认dist
+  "assetsDir": "dist",
+  // 无边缘函数则不配置function字段
+  "function": null
+}
